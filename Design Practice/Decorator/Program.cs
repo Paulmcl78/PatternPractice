@@ -29,6 +29,8 @@ namespace Decorator
 
             borrowvideo.Display();
 
+            Console.WriteLine("\nJoe Bloggs returns video");
+
             // return a vidoe and display - notice video count
             borrowvideo.ReturnItem("Joe Bloggs");
             borrowvideo.Display();
