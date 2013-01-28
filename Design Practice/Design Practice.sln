@@ -5,6 +5,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AbstractFactory", "Abstract
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Adapter", "Adapter\Adapter.csproj", "{15D05C80-4CB8-4018-B26D-944F27784D22}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Decorator", "Decorator\Decorator.csproj", "{94C11BE7-4003-4925-ADB8-A6C5A6758C31}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x86 = Debug|x86
@@ -19,6 +21,10 @@ Global
 		{15D05C80-4CB8-4018-B26D-944F27784D22}.Debug|x86.Build.0 = Debug|x86
 		{15D05C80-4CB8-4018-B26D-944F27784D22}.Release|x86.ActiveCfg = Release|x86
 		{15D05C80-4CB8-4018-B26D-944F27784D22}.Release|x86.Build.0 = Release|x86
+		{94C11BE7-4003-4925-ADB8-A6C5A6758C31}.Debug|x86.ActiveCfg = Debug|x86
+		{94C11BE7-4003-4925-ADB8-A6C5A6758C31}.Debug|x86.Build.0 = Debug|x86
+		{94C11BE7-4003-4925-ADB8-A6C5A6758C31}.Release|x86.ActiveCfg = Release|x86
+		{94C11BE7-4003-4925-ADB8-A6C5A6758C31}.Release|x86.Build.0 = Release|x86
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
