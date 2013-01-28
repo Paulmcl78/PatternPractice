@@ -13,6 +13,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "State", "State\State.csproj
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProxyPattern", "ProxyPattern\ProxyPattern.csproj", "{ABC74CF0-CBFA-4E6C-ABFD-3C84566C81CA}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Command", "Command\Command.csproj", "{7DD2D932-E986-4A0E-B412-C1A6CFF7F800}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x86 = Debug|x86
@@ -43,6 +45,10 @@ Global
 		{ABC74CF0-CBFA-4E6C-ABFD-3C84566C81CA}.Debug|x86.Build.0 = Debug|x86
 		{ABC74CF0-CBFA-4E6C-ABFD-3C84566C81CA}.Release|x86.ActiveCfg = Release|x86
 		{ABC74CF0-CBFA-4E6C-ABFD-3C84566C81CA}.Release|x86.Build.0 = Release|x86
+		{7DD2D932-E986-4A0E-B412-C1A6CFF7F800}.Debug|x86.ActiveCfg = Debug|x86
+		{7DD2D932-E986-4A0E-B412-C1A6CFF7F800}.Debug|x86.Build.0 = Debug|x86
+		{7DD2D932-E986-4A0E-B412-C1A6CFF7F800}.Release|x86.ActiveCfg = Release|x86
+		{7DD2D932-E986-4A0E-B412-C1A6CFF7F800}.Release|x86.Build.0 = Release|x86
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
